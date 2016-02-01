@@ -1,0 +1,28 @@
+name: Ebiz Solutions
+favicon: null
+layout_spectrum: 0.4393448824994266
+typography_spectrum: 0.17266196594573557
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.014402873581275344
+  lightness: 0.9790491873864084
+  saturation: 0.90003457874991
+  rhythmicContrast: 0.41909110033884645
+purpose: []
